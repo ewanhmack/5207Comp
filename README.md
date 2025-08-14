@@ -65,6 +65,3 @@ include/             # Header files
 - **Game Loop** — Handles events, updates game state, and renders each frame.
 
 ---
-
-## License
-Add your chosen license here.
